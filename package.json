@@ -1,0 +1,33 @@
+{
+  "name": "angular-rnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -a localhost -p 80 -c-1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shailendra0102/angular-rnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shailendra0102/angular-rnd/issues"
+  },
+  "homepage": "https://github.com/shailendra0102/angular-rnd#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-ui-router": "^0.4.2",
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0",
+    "http-server": "^0.9.0",
+    "moment": "^2.18.1"
+  }
+}
+
+
